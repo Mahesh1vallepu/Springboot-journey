@@ -12,5 +12,4 @@
 
     <bean id="myCar" class="com.car.autowire.by.constructor.Car" autowire="constructor"/>
 
-
 </beans>
